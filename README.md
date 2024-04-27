@@ -38,6 +38,7 @@ Welcome to Preparation
         c.Game Questions - Sanke and Ladder, Chess, Ludo
         d.State Based - Vending Machine.
         e.Multithreading - Print even and odd from different threads, Queue like Kafka.
+		f.Vehicle Rental Service
 	
 5. [ Language specific things](Lanaguage%20Specific%20things)
 
@@ -46,7 +47,7 @@ Welcome to Preparation
 				Wait, notify, atomic, reentrant lock, countdown latch, double check locking, completable future, parallel stream, concurrent hashmap, singleton)
 		c. List streams (aggregate functions, lambda)
 		d. Java 11, 15,21 new features , file handling, 
-		e. Spring boot create projects from scratch (dependency, configurations, autowire, qualifier, controller, rest controller, entity,service, repository, Data, actuator, microservices, security, how to test, service discovery, load balancer, gateway)
+		e. Spring boot create projects from scratch (dependency, actuators, configurations, autowire, qualifier, controller, rest controller, entity,service, repository, Data, actuator, microservices, security, how to test, service discovery, load balancer, gateway, exception handling)
  
 6.[Database](Database)
 
